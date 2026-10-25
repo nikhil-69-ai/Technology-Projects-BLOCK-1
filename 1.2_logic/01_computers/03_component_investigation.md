@@ -2,7 +2,7 @@
 Photograph and investigate the following components.
 Images should be stored in:
 ```
-images/components/
+1.2_logic/01_computers/images/Components
 ```
 
 | Component | Function | Key Specification |
