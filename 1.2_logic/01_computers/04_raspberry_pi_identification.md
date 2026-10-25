@@ -1,8 +1,8 @@
 # Part 4 – Raspberry Pi Hardware Identification
 Upload:
 ```
-images/raspberry-pi/pi-board.jpg
-images/raspberry-pi/labelled-pi-board.jpg
+1.2_logic/01_computers/images/Raspberry_pi/raspberry pi unlabelled.jpg
+1.2_logic/01_computers/images/Raspberry_pi/Labelled Raspberry Pi.jpg
 ```
 ---
 
