@@ -20,4 +20,6 @@ objdump -d main | head -n 60 > main_cpp.disasm.head.txt
 ```
 **Prompts (add to `journal/04_cpp.md`)**:
 - Screenshot with the program output.
+- <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/713f566e-da66-407b-847f-a3f68cf41371" />
+
 - Compared to C, how does the binary size and disassembly differ (at a glance)? Why might this be?
