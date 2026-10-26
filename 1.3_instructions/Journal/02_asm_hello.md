@@ -1,4 +1,3 @@
-# Checkpoint 2 — System Call: Hello from ARM
 
 ## Register roles
 
@@ -11,7 +10,6 @@
 
 `svc #0` raises a supervisor-call exception so the program can request a service from the operating-system kernel. Linux uses the system-call number in `r7` and arguments in registers such as `r0`, `r1`, and `r2` to perform the requested operation.
 
-## Observable behaviour
 
 When the program runs successfully, it writes this message to the terminal:
 
@@ -21,8 +19,3 @@ Hello ARM Pi!
 
 It then calls the `exit` system call to end the program.
 
-## Screenshot evidence
-
-Insert your own screenshot showing the terminal command and the output `Hello ARM Pi!`. A suitable location is `images/hello-arm-output.png`.
-
-![Hello ARM Pi terminal output](../images/hello-arm-output.png)
